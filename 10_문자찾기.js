@@ -14,5 +14,9 @@
 // }
 
 // 모범 답안
+function solution(string, s) {
+  let answer = string.split(s).length - 1;
+  return answer
+}
 
-console.log(solution("aaloalsldaaaopwdsdb", "a"));
+console.log(solution("bbcdsddfefdddfzzz", "z"));
