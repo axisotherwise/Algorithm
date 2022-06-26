@@ -1,3 +1,3 @@
-const arr = [1, 2, 3, 4, 5];
-const res = arr.reduce((a, b) => a + b);
+let str = "length";
+let res = str.substr(2, 4);
 console.log(res);
