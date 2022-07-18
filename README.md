@@ -11,3 +11,6 @@ console.log(parseInt("01205")); // 1205
 console.log(parseInt("07210")); // 7210  
 console.log(parseInt("04000")); // 4000  
 
+isNaN()  
+문자열에서 문자 추출  
+
